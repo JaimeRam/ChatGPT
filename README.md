@@ -1,6 +1,6 @@
 # ChatGPT Applications Repository
 
-Welcome to the ChatGPT Applications Repository! This repository is dedicated to showcasing various use cases of ChatGPT across different domains and technologies. Here, you will find detailed examples and guides on how to leverage ChatGPT for enhancing your projects and workflows.
+Welcome to the ChatGPT Applications Repository! This repository is dedicated to showcasing various use cases of ChatGPT across different domains and technologies. Here, you will find detailed examples and guides on how to leverage ChatGPT to enhance your projects and workflows.
 
 ## Repository Contents
 
@@ -18,9 +18,13 @@ Learn how ChatGPT can assist in Java development by generating code snippets, de
 Discover how ChatGPT can be utilized to generate SQL queries, optimize database interactions, and simplify data management tasks.
 [Read more about SQL Development with ChatGPT](SQL_development_with_ChatGPT.md)
 
+### Rebalance Portfolio Asset Allocation with ChatGPT
+Understand how ChatGPT can help in rebalancing investment portfolios to match target asset allocations, aiding in financial planning and asset management.
+[Read more about Rebalancing Portfolio Asset Allocation with ChatGPT](Rebalance_Portfolio_Asset_Allocation_with_ChatGPT.md)
+
 ## Using This Repository
 
-This repository is structured to provide easy access to various guides and tutorials that demonstrate the capabilities of ChatGPT in different technical fields. You can navigate through the documents linked above to find resources relevant to your interests and projects.
+This repository is structured to provide easy access to various guides and tutorials that demonstrate the capabilities of ChatGPT in different technical fields. Navigate through the documents linked above to find resources relevant to your interests and projects.
 
 ## Contributions
 
